@@ -32,6 +32,7 @@ en:
         heading: "Edit"
         no_password_change_hint: "(leave blank if you don't want to change it)"
         password_change_hint: "(we need your current password to confirm your changes)"
+        update: "Update"
         unhappy: "Unhappy?"
         waiting_confirmation: "Currently waiting confirmation for:"
     sessions:
